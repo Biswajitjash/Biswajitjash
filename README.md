@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biswajitjash, having more than 20 years of working Experience, with 3years of SAP Techinical, Working with AMPL as an AM Techinical
 - 👀 I’m interested in working with team to achiev collective goals 
-- 🌱 I’m currently learning SAP UI5 and CDS, ODATA
+- 🌱 I’m currently learning SAP UI5 and CDS, ODATA, React, NodeJS..
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me in 7003400124.
 
